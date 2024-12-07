@@ -35,7 +35,7 @@ export default function Ajouter({}: Props) {
         className="flex flex-col  justify-between gap-3  w-3/4"
       >
         <div className="flex flex-col gap-2  justify-center  w-full h-10 m-4">
-          <label htmlFor="titre">Titre</label>
+          <label htmlFor="titre">Citation</label>
           <input
             type="text"
             name="titre"
